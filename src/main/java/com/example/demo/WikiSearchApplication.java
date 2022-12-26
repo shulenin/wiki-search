@@ -1,5 +1,8 @@
 package com.example.demo;
 
+import com.example.demo.services.GetRequestSendingService;
+import com.example.demo.services.JSONParser;
+import com.example.demo.services.SearchDataGettingService;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.io.*;
 
